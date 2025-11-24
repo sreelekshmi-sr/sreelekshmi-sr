@@ -41,12 +41,4 @@ I'm **Sreelekshmi S R** — a chill, curious, and passionate **Full-Stack Softwa
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreelekshmi-sr&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreelekshmi-sr&layout=compact&theme=default)
-
----
-
 🌟 *Thanks for visiting my profile — feel free to connect or check out my work!*
