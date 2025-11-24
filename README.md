@@ -1,7 +1,9 @@
-### Hey 👋 I'm Sreelekshmi S R
+### Hi there 👋  
+I'm **Sreelekshmi S R** — a chill, curious, and passionate **Full-Stack Software Developer** with **3.6+ years of experience** building modern web applications.
 
-I'm a chill and passionate **Full-Stack Software Developer** with **3.6 years of experience**, currently working at **HCL**.  
-I enjoy building scalable applications using **JavaScript, Python, MERN Stack**, and cloud solutions on **AWS**.
+💼 Currently working at **HCLTech**  
+💻 Experienced in **JavaScript, Python, MERN Stack, AWS & Modern UI frameworks**  
+🌱 Always exploring new technologies & improving my craft  
 
 ### Connect with me  
 <a href="https://www.linkedin.com/in/sreelekshmi761/">
